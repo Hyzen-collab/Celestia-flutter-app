@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # celestia_app
 
 A new Flutter project.
@@ -89,8 +88,3 @@ const String nasaApiKey = 'YOUR_API_KEY_HERE';
 - [Flutter](https://flutter.dev/)
 - [Dart](https://dart.dev/)
 - [NASA Open APIs](https://api.nasa.gov/)
-
-## 📄 License
-
-MIT License — feel free to use and modify.
->>>>>>> ca5efbb1361af0b1ba7b0cc68b1d5e9cf2b02a3b
